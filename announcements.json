@@ -1,8 +1,8 @@
 {
-  "updatedAt": 1792607477019,
+  "updatedAt": 1792614012891,
   "announcements": {
     "update": {
-      "active": false,
+      "active": true,
       "message": "Resultify का नया अपडेट आ गया है। बेहतर performance, नए features और जरूरी improvements के लिए अभी ऐप को अपडेट करें।",
       "targetVersionCode": 2,
       "targetVersionName": "v1.2.4",
