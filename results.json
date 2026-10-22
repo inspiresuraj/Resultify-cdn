@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792666163815,
+  "updatedAt": 1792666168914,
   "totalResults": 10,
   "results": [
     {
@@ -54,15 +54,15 @@
       "createdAt": 1792640750000,
       "description": "## CBSE Class 10th Secondary School Result 2026\nCentral Board of Secondary Education (CBSE) dwara Class 10th ka annual board exam result officially publish ho chuka hai. Digilocker aur official pariksha sangam par scorecard live hai.",
       "extraContent": "### Required Details:\n- Roll Number\n- School Number\n- Date of Birth\n- Admit Card ID (jo aapke admit card par print hai)",
-      "extraType": "GUIDE",
+      "extraType": "",
       "id": 3,
       "label": "Secondary School Examination 2026",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
       "portalUrl": "https://cbseresults.nic.in",
       "published": "Declared Officially",
-      "status": "Live Now",
-      "timeAnnounced": "11:00 AM",
+      "status": "Result Available",
+      "timeAnnounced": "",
       "timeAvailable": "2026-05-13T11:00",
       "timeLive": "2026-05-13T10:45",
       "title": "CBSE 10th Result 2026",
