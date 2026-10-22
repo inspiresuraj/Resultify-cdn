@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792666126048,
+  "updatedAt": 1792666145307,
   "totalResults": 10,
   "results": [
     {
@@ -188,19 +188,19 @@
     },
     {
       "boardOrUniversity": "MAGADH UNIVERSITY",
-      "category": "UG",
+      "category": "university",
       "createdAt": 1792641050000,
       "description": "## Magadh University (MU) Bodhgaya UG Result\nMagadh University Bodhgaya dwara BA, BSc, BCom Part-1, Part-2 aur Part-3 Degree examinations ke parinam official portal mehadhyam par jaari kiye gaye hain.",
       "extraContent": "### Server Overload Note:\n- Magadh University server par heavy traffic rehta hai. Agar page load na ho toh Resultify ke refresh icon ka use karein ya alternate server links try karein.",
-      "extraType": "GUIDE",
+      "extraType": "",
       "id": 9,
       "label": "Degree Part-I/II/III Examination",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
       "portalUrl": "https://mehadhyam.com/mu/result",
       "published": "Declared Officially",
-      "status": "Live Now",
-      "timeAnnounced": "3:00 PM",
+      "status": "Result Available",
+      "timeAnnounced": "",
       "timeAvailable": "2026-05-28T15:00",
       "timeLive": "2026-05-28T14:30",
       "title": "Magadh University UG Result",
