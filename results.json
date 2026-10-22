@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792665931872,
+  "updatedAt": 1792666126048,
   "totalResults": 10,
   "results": [
     {
@@ -210,20 +210,20 @@
       "year": "2026"
     },
     {
-      "boardOrUniversity": "LALIT NARAYAN MITHILA UNIVERSITY",
-      "category": "UG",
+      "boardOrUniversity": "LNMU UG",
+      "category": "university",
       "createdAt": 1792641100000,
       "description": "## LNMU Darbhanga UG Degree Result\nLalit Narayan Mithila University (LNMU) dwara B.A / B.Sc / B.Com Degree Semester / Part exams ka scorecard live kar diya gaya hai.",
       "extraContent": "### Roll Number Se Check Karein:\n- Official result dashboard par apna University Roll Number fill karein aur search button dabayein.",
-      "extraType": "GUIDE",
+      "extraType": "",
       "id": 10,
       "label": "UG Degree Semester Exam",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
       "portalUrl": "https://lnmu.ac.in",
       "published": "Declared Officially",
-      "status": "Live Now",
-      "timeAnnounced": "12:00 PM",
+      "status": "Result Available",
+      "timeAnnounced": "",
       "timeAvailable": "2026-07-02T12:00",
       "timeLive": "2026-07-02T11:45",
       "title": "LNMU UG (BA/BSc/BCom) Result",
