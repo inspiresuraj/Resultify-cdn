@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792666178149,
+  "updatedAt": 1792666186579,
   "totalResults": 10,
   "results": [
     {
@@ -100,15 +100,15 @@
       "createdAt": 1792640850000,
       "description": "## UPMSP Class 10th High School Result 2026\nUttar Pradesh Madhyamik Shiksha Parishad (UPMSP), Prayagraj dwara High School (Class 10) ka parinam ghoshit kar diya gaya hai. Pariksharthi apna 10-digit roll number darj karke marksheet download karein.",
       "extraContent": "### Roll Number & District Code:\n- Apna Roll Number aur apne zila (District) ka code select karein jahan se aapne exam diya hai.",
-      "extraType": "GUIDE",
+      "extraType": "",
       "id": 5,
       "label": "High School Examination 2026",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
       "portalUrl": "https://upresults.nic.in",
       "published": "Declared Officially",
-      "status": "Live Now",
-      "timeAnnounced": "2:00 PM",
+      "status": "Result Available",
+      "timeAnnounced": "",
       "timeAvailable": "2026-04-20T14:00",
       "timeLive": "2026-04-20T13:45",
       "title": "UP Board 10th Result 2026",
