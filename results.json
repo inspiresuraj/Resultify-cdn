@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792666205255,
+  "updatedAt": 1792666262229,
   "totalResults": 10,
   "results": [
     {
@@ -169,7 +169,7 @@
       "createdAt": 1792641000000,
       "description": "## Patna University (PU) UG CBCS Semester Result\nPatna University dwara Under Graduate CBCS 4-Year Degree Course (BA, BSc, BCom) ka semester examination result portal par update kar diya gaya hai.",
       "extraContent": "### Roll Number & Registration:\n- PU Portal par login karne ke liye apna University Roll Number aur Registration Number taiyar rakhein.",
-      "extraType": "",
+      "extraType": "Guide",
       "id": 8,
       "label": "UG CBCS Semester Examination",
       "notificationSent": true,
