@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792666145307,
+  "updatedAt": 1792666163815,
   "totalResults": 10,
   "results": [
     {
@@ -31,15 +31,15 @@
       "createdAt": 1792640700000,
       "description": "## Bihar Board Inter Result 2026\nBSEB Class 12th Intermediate Annual Examination (Arts, Science, Commerce & Vocational) ka result officially release kar diya gaya hai. Sabhi streams ke students roll code aur roll number ke madhyam se scorecard check kar sakte hain.",
       "extraContent": "### Marksheet Verification Guide:\n- Marksheet par apna Name, Father's Name, College Name aur Subject-wise marks dhyan se milayein.\n- Agar kisi subject me compartment ya scrutiny apply karni ho to official schedule check karein.",
-      "extraType": "GUIDE",
+      "extraType": "",
       "id": 2,
       "label": "Intermediate Annual Exam 2026",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
       "portalUrl": "http://interbseb.com",
       "published": "Declared Officially",
-      "status": "Live Now",
-      "timeAnnounced": "1:30 PM",
+      "status": "Result Available",
+      "timeAnnounced": "",
       "timeAvailable": "2026-03-23T13:30",
       "timeLive": "2026-03-23T13:15",
       "title": "BSEB 12th Inter Result 2026",
