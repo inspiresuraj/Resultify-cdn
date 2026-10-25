@@ -1,14 +1,14 @@
 {
-  "updatedAt": 1792912347625,
+  "updatedAt": 1792913822583,
   "announcements": {
     "update": {
       "active": true,
-      "message": "Resultify का नया अपडेट आ गया है। बेहतर performance, नए features और जरूरी improvements के लिए अभी ऐप को अपडेट करें।",
+      "message": "A new version of Resultify is available! Enjoy improved app performance, smoother themes, enhanced security, and bug fixes. Update now for the best experience.",
       "targetVersionCode": 2,
       "targetVersionName": "v1.0.1",
       "title": "Update Available 🎉",
       "type": "UPDATE",
-      "updatedAt": 1792912346610,
+      "updatedAt": 1792913821594,
       "url": "https://play.google.com/store/apps/details?id=com.resultify.app"
     }
   }
