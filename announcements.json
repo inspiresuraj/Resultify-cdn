@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1793248466482,
+  "updatedAt": 1793248651687,
   "announcements": {
     "1793248432266": {
       "active": true,
-      "message": "Don't worry! We're working on an update. Some results may be temporarily unavailable. Everything will be back soon. Thank you for your patience!",
+      "message": "Don't worry! We're working on an update. Some results may be temporarily unavailable. Everything will be back soon.",
       "title": "🚀 Update Coming Soon",
       "type": "BUG",
-      "updatedAt": 1793248432266,
+      "updatedAt": 1793248650735,
       "url": ""
     },
     "update": {
