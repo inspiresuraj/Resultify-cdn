@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793268834853,
+  "updatedAt": 1793269109023,
   "announcements": {
     "1793248432266": {
       "active": false,
@@ -11,10 +11,10 @@
     },
     "1793268833767": {
       "active": true,
-      "message": "Enjoy improved edge-to-edge UI, smoother themes, and better Android compatibility. Bug fixes and performance improvements for a faster, more reliable experience.",
+      "message": "• Improved edge-to-edge and theme support.\n• Fixed Android API compatibility issues.\n• Improved offline announcements, performance, and stability.",
       "title": "Resultify v1.0.2 Is Here! 🎉",
       "type": "NOTICE",
-      "updatedAt": 1793268833767,
+      "updatedAt": 1793269107635,
       "url": ""
     },
     "update": {
