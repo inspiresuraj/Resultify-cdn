@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793267691020,
+  "updatedAt": 1793267823369,
   "announcements": {
     "1793248432266": {
       "active": false,
@@ -14,9 +14,9 @@
       "message": "Bug fixes & performance improvements.\nEnjoy smoother themes, fixed latest results, and improved performance. Update now!",
       "targetVersionCode": 3,
       "targetVersionName": "v1.0.2",
-      "title": "🚀 Update Available !",
+      "title": "Update Available 🎉",
       "type": "UPDATE",
-      "updatedAt": 1793267689966,
+      "updatedAt": 1793267822306,
       "url": "https://play.google.com/store/apps/details?id=com.resultify.app"
     }
   }
