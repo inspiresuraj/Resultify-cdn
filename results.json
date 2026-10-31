@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793412008284,
+  "updatedAt": 1793412022065,
   "totalResults": 10,
   "results": [
     {
@@ -13,7 +13,7 @@
       "label": "Matric Annual Examination 2026",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
-      "portalUrl": "",
+      "portalUrl": "https://bseb-10th.xxyz42894-742.workers.dev/",
       "published": "Declared Officially",
       "status": "Coming Soon",
       "timeAnnounced": "",
