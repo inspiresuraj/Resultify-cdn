@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1793597230578,
+  "updatedAt": 1793597269929,
   "totalArticles": 1,
   "articles": [
     {
-      "active": false,
+      "active": true,
       "badgeText": "BIHAR BOARD",
       "bannerSubtitle": "Class 10 Results 2027",
       "bannerTitle": "BSEB Matric Expected Result Date",
@@ -42,7 +42,7 @@
       "fullTitle": "Bihar Board Class 10 Results 2027 • Expected Result Date",
       "gradientTheme": 0,
       "id": "-P5I7q3R4uZCRjfr6D7H",
-      "lastUpdated": 1793597228037,
+      "lastUpdated": 1793597267640,
       "officialNoticeUrl": "",
       "sourceName": "Resultify",
       "sourceUrl": "https://results.biharboardonline.com",
