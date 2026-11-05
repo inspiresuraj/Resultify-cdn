@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793851866519,
+  "updatedAt": 1793852936923,
   "totalResults": 10,
   "results": [
     {
@@ -146,20 +146,20 @@
       "createdAt": 1792640950000,
       "description": "## Patliputra University (PPU) UG Regular Result\nPatliputra University, Patna dwara Undergraduate (BA, BSc, BCom) Part-3 / Semester Results jaari kar diye gaye hain. Students session aur roll number choose karke marksheet download kar sakte hain.",
       "extraContent": "### PPU Result Check Karne Ka Tarika:\n1. Session select karein (e.g. 2025-2026 ya Year).\n2. Exam Type me 'Regular' ya 'Vocational' choose karein.\n3. Course me apna Stream select karein (BA / BSc / BCom).\n4. Roll Number aur Father/Mother ka naam enter karein aur 'Show Marksheet' par click karein.",
-      "extraType": "",
+      "extraType": "Guide",
       "id": 7,
       "label": "UG BA, BSc, BCom Examination",
       "notificationSent": true,
       "openActivity": "ResultDetailActivity",
-      "portalUrl": "https://ppup.ac.in/results",
+      "portalUrl": "https://ppup.ac.in",
       "published": "Declared Officially",
       "status": "Result Available",
       "timeAnnounced": "",
       "timeAvailable": "2026-06-15T16:00",
       "timeLive": "2026-06-15T15:30",
       "title": "PPU UG (BA/BSc/BCom) Result",
-      "url": "https://ppup.ac.in/results",
-      "url2": "https://examination.ppup.ac.in/",
+      "url": "https://lu.indiaexaminfo.co.in/result_patliputra.aspx",
+      "url2": "",
       "url3": "",
       "year": "2026"
     },
