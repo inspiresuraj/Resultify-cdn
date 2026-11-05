@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793851353435,
+  "updatedAt": 1793851745569,
   "totalResults": 10,
   "results": [
     {
@@ -43,8 +43,8 @@
       "timeAvailable": "2026-03-23T13:30",
       "timeLive": "2026-03-23T13:15",
       "title": "BSEB 12th Inter Result 2026",
-      "url": "http://interbseb.com",
-      "url2": "http://results.biharboardonline.com",
+      "url": "https://interbiharboard.com",
+      "url2": "",
       "url3": "",
       "year": "2026"
     },
