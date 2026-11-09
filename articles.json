@@ -1,9 +1,9 @@
 {
-  "updatedAt": 1794241453449,
+  "updatedAt": 1794241488472,
   "totalArticles": 2,
   "articles": [
     {
-      "active": false,
+      "active": true,
       "badgeText": "BIHAR BOARD",
       "bannerSubtitle": "Class 12 Sent-Up Exam 2026",
       "bannerTitle": "Exam Date Released",
@@ -56,7 +56,7 @@
           "event": "Intermediate Annual Examination 2027"
         }
       ],
-      "lastUpdated": 1794241449100,
+      "lastUpdated": 1794241485852,
       "officialNoticeUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyV8FoI9h1Ezb3dyb9UmRa4-OEQaFzo_nomO6QsvcuCg&s=10",
       "sourceName": "Resultify",
       "sourceUrl": "https://intermediate.biharboardonline.com/",
